@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+}
+
+.img-float{
+    width: 30%;
+    float: left;
+    margin-right: 10px;
+    /* margin-left: 20px; */
+}
+
+.par1{
+    background-color: coral;
+    text-align: justify;
+}
+
+.par2{
+    /* clear: both; */
+}
+
+.clear{
+    clear: both;
+}
+
+.box{
+    float: left;
+    width: 33.33%;
+}
+
+.box1{
+    background-color: darkcyan;
+    
+
+}
+
+.box2{
+    background-color: darkgoldenrod;
+    
+}
+
+.box3{
+    background-color: darkviolet;
+    
+
+}
